@@ -1,0 +1,6 @@
+scipy
+statsmodels
+matplotlib
+numpy
+sklearn
+chainer
